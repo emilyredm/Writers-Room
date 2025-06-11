@@ -11,11 +11,11 @@ The project emphasizes feedback, iteration, and collaboration with the LLM gener
 - Writers Room Memory: Persistent storage for ideas and feedback.
 
 ## Directory Structure
-```
+```text
 Modules/
   Concept Generator/
     UI_Concept_Generator.ipynb
-  Episode Generator /
+  Episode Generator/
   Memory/
     writers_room_memory.json
   Series and Season Planner/
@@ -24,6 +24,7 @@ Modules/
 requirements.txt
 writersroom/ (virtual environment)
 ```
+
 
 ## Setup Instructions
 1. Clone the repository:
