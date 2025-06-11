@@ -1,0 +1,52 @@
+# Writers Room
+
+Writers Room is a toolkit designed to assist writers and creative teams in generating, organizing, and planning concepts, episodes, and seasons for TV series or similar narrative projects. It provides interactive tools and memory modules to streamline the creative process.
+
+The project emphasizes feedback, iteration, and collaboration with the LLM generated text.
+
+## Features
+- Concept Generator: Generate and refine creative concepts interactively.
+- Episode Generator: Tools for episode ideation and script development.
+- Series and Season Planner: Plan series arcs and season structures.
+- Writers Room Memory: Persistent storage for ideas and feedback.
+
+## Directory Structure
+```
+Modules/
+  Concept Generator/
+    UI_Concept_Generator.ipynb
+  Episode Generator /
+  Memory/
+    writers_room_memory.json
+  Series and Season Planner/
+    UI_Season_Planner_Feedback.ipynb
+    UI_Series_Overview_Generator.ipynb
+requirements.txt
+writersroom/ (virtual environment)
+```
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
+   cd Writers Room
+   ```
+2. (Recommended) Create and activate a virtual environment:
+   ```bash
+   python3 -m venv writersroom
+   source writersroom/bin/activate
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+- Open the Jupyter notebooks in the `Modules/` directory to use the concept generator, season planner, and other tools.
+- The memory module stores persistent data in `writers_room_memory.json`.
+
+## Contributing
+Contributions are welcome! Please open issues or submit pull requests for improvements or new features.
+
+## License
+This project is licensed under the MIT License.
