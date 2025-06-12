@@ -1,8 +1,12 @@
 # Writers Room
+Writers Room is an experimental toolkit for creative writers developing TV series or serialized narrative projects. It offers modular tools for generating and refining show concepts, planning episodes and seasons, and storing creative memory in a persistent workspace.
 
-Writers Room is an experimental toolkit for creative teams and solo writers developing TV series or serialized narrative projects. It offers modular tools for generating and refining show concepts, planning episodes and seasons, and storing creative memory in a persistent workspace.
+In its current early-stage form, Writers Room serves as a playground for exploring feedback loops, revision workflows, and collaborative storytelling with large language models. Its core focus is on how creative ideas evolve through human-AI interaction—preserving memory, enabling iteration, and supporting long-form narrative development.
 
-This project is in its early stages and serves as a playground for exploring feedback loops, iteration, and collaborative storytelling with LLMs. It's designed to test how creative ideas evolve through human-AI interaction, with a focus on memory, revision, and long-form planning.
+Looking ahead, the goal is to evolve Writers Room into a full-featured application and collaborative service. Future features include multi-user support, real-time feedback, and shared memory—replicating the dynamics of a real writers’ room at scale. The vision is to empower creative teams to co-create with AI across every stage of storytelling, in writing and potentially other mediums.
+
+This work also invites broader reflection: How might LLM-driven collaboration shape or homogenize creative expression? While risks exist, there’s also enormous potential to lower the floor for structured storytelling and unlock new modes of creative exploration. There’s also a meaningful opportunity to explore how LLMs can most effecticely navigate long-form creative context and collaborate with humans in a way that supports, rather than dilutes, the soul of human storytelling, both the process and the product.
+
 
 ## Features
 - Concept Generator: Generate and refine creative concepts interactively.
