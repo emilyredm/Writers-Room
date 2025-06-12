@@ -29,7 +29,7 @@ writersroom/ (virtual environment)
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/emilyredm/Writers-Room.git
    cd Writers Room
    ```
 2. (Recommended) Create and activate a virtual environment:
