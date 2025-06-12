@@ -17,6 +17,12 @@ This work also invites broader reflection: How might LLM-driven collaboration sh
 ## Directory Structure
 ```text
 Modules/
+  concept_generator/
+    concept_generator.ipynb
+  episode_generator/
+    episode_generator.ipynb
+  series_and_seaon_planner/
+    series_and_seaon_planner.ipynb
   Memory/
     writers_room_memory.json
 requirements.txt
