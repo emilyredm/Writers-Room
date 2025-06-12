@@ -1,0 +1,33 @@
+TODO: Translate Writers Room from Jupyter Notebook to Web App
+
+1. Modularize core logic
+   - Move generation and memory functions from notebook into .py modules
+   - Organize by feature (e.g., concept.py, memory.py)
+
+2. Build backend API
+   - Set up FastAPI (or Flask) to expose functions as HTTP endpoints
+   - Implement endpoints for: generate show thesis, revise with feedback, save/get memory
+
+3. Design and connect frontend
+   - Choose frontend framework (Streamlit for fast start or React/Next.js for flexibility)
+   - Create UI for prompt input, feedback loop, version selection, and memory browsing
+
+4. Refactor memory system
+   - Replace JSON file with SQLite or Postgres database 
+   - Update memory functions to support persistent storage and multi-user support
+
+5. Develop feedback and revision tools
+   - Use frontend forms for user feedback input
+   - Call backend revise endpoints and display new versions with selection UI
+
+6. Test API locally
+   - Use curl, Postman, or frontend to ensure endpoints respond correctly
+   - Validate memory is being saved and retrieved as expected
+
+7. Deploy backend and frontend
+   - Use Render/Fly.io/Railway to host API
+   - Use Vercel/Netlify for frontend deployment
+
+8. Plan for multi-user support
+   - Add user/session identifiers in memory system
+   - Protect or isolate memory by user or project
