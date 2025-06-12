@@ -1,8 +1,8 @@
 # Writers Room
 
-Writers Room is a toolkit designed to assist writers and creative teams in generating, organizing, and planning concepts, episodes, and seasons for TV series or similar narrative projects. It provides interactive tools and memory modules to streamline the creative process.
+Writers Room is an experimental toolkit for creative teams and solo writers developing TV series or serialized narrative projects. It offers modular tools for generating and refining show concepts, planning episodes and seasons, and storing creative memory in a persistent workspace.
 
-The project emphasizes feedback, iteration, and collaboration with the LLM generated text.
+This project is in its early stages and serves as a playground for exploring feedback loops, iteration, and collaborative storytelling with LLMs. It's designed to test how creative ideas evolve through human-AI interaction, with a focus on memory, revision, and long-form planning.
 
 ## Features
 - Concept Generator: Generate and refine creative concepts interactively.
