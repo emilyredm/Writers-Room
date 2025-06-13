@@ -3,7 +3,7 @@ Writers Room is an experimental platform for creative writers to codevelop TV se
 
 In its current early-stage form, Writers Room serves as a playground for exploring feedback loops, revision workflows, and collaborative storytelling with large language models. Its core focus is on how creative ideas evolve through human-AI interaction—preserving memory, enabling iteration, and supporting long-form narrative development.
 
-Future features include multi-user support, real-time feedback, and shared memory—replicating the dynamics of a real writers’ room at scale. The vision is to explore how creative teams might co-create with AI across every stage of storytelling, in writing and potentially other mediums.
+Future features include ap application UI (currently prototyping with Jupyter notebooks to iterate quickly), multi-user support, real-time feedback, and shared memory—replicating the dynamics of a real writers’ room at scale. The vision is to explore how creative teams might co-create with AI across every stage of storytelling, in writing and potentially other mediums.
 
 This work also invites broader reflection: How might LLM-driven collaboration shape or homogenize creative expression? While risks exist, there’s also enormous potential to lower the floor for structured storytelling and unlock new modes of creative exploration. There’s also a meaningful opportunity to explore how LLMs can most effecticely navigate long-form creative context and collaborate with humans in a way that supports, rather than dilutes, the soul of human storytelling, both the process and the product.
 
